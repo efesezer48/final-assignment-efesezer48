@@ -6,7 +6,7 @@ public class Project {
 
     static Random random = new Random();
 
-    static String[] names = {"Karabas", "Oglak", "Malak", "Giorgio", "Turkes", "Kabak", "Selen", "Viran", "Muddie", "Topg"};
+    static String[] names = {"Karabas", "Pamuk", "Venus", "Bihter", "Beyaz", "Kabak", "Bidik", "Duman", "Muddie", "Findik"};
 
     static class Creature {
         String name;
